@@ -1,0 +1,128 @@
+#title-box{
+    padding: 25px;
+    padding-top: 100px;
+    text-align: center;
+    font-size: larger;
+
+   
+    
+    
+    
+    
+    
+}
+
+footer{
+        padding: 40px 0;
+        color: white;
+        background: black;
+        height: auto;
+}
+#title-box-2{
+    text-align: center;
+    line-height: 10px;
+}
+#explore-box{
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    padding: 5px;
+
+    border: 5px solid red;
+    width: 120px;
+    margin: auto;
+    background-color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 8px;
+}
+header{
+    color: white;
+    font-size: 25px;
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: scroll;
+    background-size: 120px;
+    word-spacing: 20px;
+    padding-right: 10px;
+    background-color: black;
+ 
+}
+#categories-box{
+    display:block;
+    text-align: center;
+    background-color:deepskyblue;
+
+    margin-left: 90px;
+    margin-right: 90px;
+    font-size: 35px;
+    border: 3px solid black
+
+    
+}
+#option-box{
+    background-color:white;
+    text-align: center;
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 5px;
+    border: 3px solid black;
+    line-height: 50px;
+    border-radius:200px;
+    padding:5px;
+   
+}
+ul{
+  
+    margin-top: 25px;
+    text-align: center;
+    list-style-type: none;
+    
+}
+
+    
+   
+li
+
+h2{
+    color: black;
+    font-size: 40px;
+}
+h3{
+    font-size: 80px;
+}
+#gallery{
+   display:inline-block;
+   margin: 10px;
+   width:auto;
+   font-size: 10px;
+   text-align: center;
+   background-color: skyblue;
+    text-decoration:underline;
+   
+    
+
+
+
+}
+figure{
+    display: inline-block;
+    margin: 20px;
+}
+
+img{
+ width: 100px;
+ border: 2px solid black;
+ border-radius: 4px ;
+ padding:10px;
+ caption-side: bottom;
+ vertical-align: top;
+ 
+ 
+}
+img:hover{
+    box-shadow: 0 0 2px 5px rgb(228, 222, 44);
+}
+figcaption{
+    font-size: 20px;
+    margin:2px;
+}
